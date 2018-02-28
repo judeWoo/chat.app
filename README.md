@@ -12,7 +12,9 @@ $ npm start
 And point your browser to `http://localhost:3000`. Optionally, specify
 a port by supplying the `PORT` env variable.
 
-## Deploy on AWS
+Press return key to continue
+
+## Deployed on AWS
 
 http://produ-publi-gfxnl2sg5uyh-1678785066.us-east-1.elb.amazonaws.com/
 
